@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=200&color=8AB6D6&center=true&width=650&lines=Hey+There!+I'm+Khushi+Naik!;Software+Developer+%7C+Machine+Learning+Engineer;AI+Researcher+%7C+Innovator+%7C+Creator" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaikKhushi21&label=Profile+Visits&color=8AB6D6&style=flat-square" alt="Profile Counter" />
-</p>
-
 ---
 
 ## 🌸 About Me  
